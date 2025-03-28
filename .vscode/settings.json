@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "BrokGamesCase.sln"
+    "dotnet.defaultSolution": "BrokGameCase.sln"
 }
